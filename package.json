@@ -1,0 +1,23 @@
+{
+  "name": "capitalizes-the-first-letter-of-each-word",
+  "version": "1.0.0",
+  "description": "A simple function that makes the first letters of each words capitalised ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitec9/capitalizes-the-first-letter-of-each-word..git"
+  },
+  "keywords": [
+    "words-conversion"
+  ],
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitec9/capitalizes-the-first-letter-of-each-word./issues"
+  },
+  "homepage": "https://github.com/amitec9/capitalizes-the-first-letter-of-each-word.#readme"
+}
