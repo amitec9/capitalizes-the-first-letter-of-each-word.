@@ -1,6 +1,6 @@
 {
   "name": "capitalizes-the-first-letter-of-each-word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function that makes the first letters of each words capitalised ",
   "main": "index.js",
   "scripts": {
